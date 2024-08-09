@@ -31,6 +31,5 @@ My name is Talita Keniata!
 
 <div>
 <a href="https://github.com/raiii84">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keniata15&layout=compact&langs_count=7&theme="Gradient/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Keniata15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keniata15&layout=compact&langs_count=7&theme="ambient_gradient"/>
 </div>
