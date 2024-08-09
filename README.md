@@ -31,4 +31,4 @@ My name is Talita Keniata!
 
 <div>
 <a href="https://github.com/raiii84">
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ambient_gradient&show_icons=true"/>
